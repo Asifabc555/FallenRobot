@@ -1294,7 +1294,7 @@ def donate(update: Update, context: CallbackContext):
 
             update.effective_message.reply_text(
 
-                f"» ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴩᴇʀ ᴏғ {BOT_NAME} sᴏʀᴄᴇ ᴄᴏᴅᴇ ɪs [𝒍𝒆𝒗𝒊](https://t.me/hsslevii)."
+                f"» ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴩᴇʀ ᴏғ {BOT_NAME} sᴏʀᴄᴇ ᴄᴏᴅᴇ ɪs [𝒍𝒆𝒗𝒊](https://t.me/hsslevii)",
 
                
 
