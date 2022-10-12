@@ -150,7 +150,7 @@ PM_START_TEXT = """
 
 ──────────────────
 
-*๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʜᴇʟᴩ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴍᴏᴅᴜʟᴇs ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs.*
+*[๏](https://telegra.ph/file/738e58eb14fe330dc19c6.jpg) ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʜᴇʟᴩ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴍᴏᴅᴜʟᴇs ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs.*
 
 """
 
@@ -160,7 +160,7 @@ buttons = [
 
         InlineKeyboardButton(
 
-            text="ᴀᴅᴅ ᴍᴇ ᴇʟsᴇ ʏᴏᴜ ɢᴇʏ",
+            text="Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Cʜᴀᴛ",
 
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
 
